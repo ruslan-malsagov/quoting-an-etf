@@ -1,5 +1,5 @@
 # quoting-an-etf
-My solution to Quoting an ETF Flow Traders Hackathon which took place at hackerrank on May 30-31, 2020.
+My solution to the Quoting an ETF Hackathon by Flow Traders which took place on hackerrank during May 30-31, 2020.
 
 ### Description of the problem.
 Can be accessed as pdf here (TODO: add a link).
