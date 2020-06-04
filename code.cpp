@@ -7,26 +7,6 @@ string rtrim(const string &);
 vector<string> split(const string &);
 
 /*
- * A few remarks about the design of classes in this application.
- * Three classes are declared to process all data more conviniently.
- * Below are class names and names of their key memebers (containing the most important data) in pseudocode:
- *     ETFComponent - contains the info about each component in ETF
- *         string symbol
- *         string currency
- *         double weight
- *     ETF - contains the info about the whole ETF
- *         string name
- *         string currency
- *         vector<ETFComponent> components
- *     Message - contains the info about a message with price which are being received from the exchange
- *         string type ("A" for ask, "B" for bid or "X" for currency exchange rate)
- *         string symbol (could be currency, ETF or stock symbol)
- *         string exchange (exchange name such as stock, etf or currency)
- *         double px (price)
- *         double qty (quantity) - if 0, then the price of this instrument is not available, but for type == "X" its always zero by design
- */
-
-/*
  * Function for checking if two doubles are equal.
  */
 bool areEqual(double a, double b)
