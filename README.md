@@ -2,7 +2,7 @@
 My solution to the Quoting an ETF Hackathon by Flow Traders which took place on hackerrank during May 30-31, 2020.
 
 ### Description of the problem.
-The full description can be accessed as pdf here [https://drive.google.com/file/d/1hUQ3v_zyKvCksRL6-HyRUIaDfhVg3-ab/view?usp=sharing].
+The full description can be accessed as pdf [here](https://drive.google.com/file/d/1hUQ3v_zyKvCksRL6-HyRUIaDfhVg3-ab/view?usp=sharing).
 
 ### Description of classes in this application.
 Three classes are declared to process all data more conviniently.
